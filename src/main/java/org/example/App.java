@@ -1,7 +1,7 @@
 package org.example;
 
 /*
- *  UCF COP3330 Fall 2021 Exercise 21 Solution
+ *  UCF COP3330 Fall 2021 Exercise 22 Solution
  *  Copyright 2021 Merrek DeBolt
  */
 
